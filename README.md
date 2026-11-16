@@ -300,4 +300,4 @@ Add a license of your choice (for example MIT) in a `LICENSE` file.
 
 ## Author
 
-Built by **YOUR NAME** · [GitHub](https://github.com/YOUR-USERNAME)
+Built by **Rupesh Raut** · [GitHub](https://github.com/YOUR-USERNAME)
